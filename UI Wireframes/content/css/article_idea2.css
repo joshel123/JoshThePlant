@@ -1,7 +1,6 @@
 #article-wrapper {
 
     background-color: #303030;
-    /* background-color: #212121; */
 
     /* background-color: white;  */
     height: fit-content; 
@@ -14,9 +13,7 @@
 
 
 .article-side-bar {
-    /* background-color: #303030; */
     background-color: #212121;
-    
 }
 
 #article-side-bar-image-wrapper {
@@ -46,22 +43,13 @@
     #article-body{
         padding: 0.75em 0 0 0;
     }
-    
+
     .article-side-bar {
         display: none;
     }
 
 }
-
-@media (max-width: 1200px) {
-    .article-side-bar {
-        display: none;
-    }
-
-
-}
-
-
+  
 
 #article-title {
     padding-top: .5em;

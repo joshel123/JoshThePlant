@@ -7,6 +7,7 @@
 #archive-wrapper {
   height: fit-content; 
   min-height: 100vh;
+  padding-bottom: 20px;
 }
   
 body {
@@ -17,7 +18,13 @@ body {
     border: 2px solid white;
     background-color: #444;
     border-radius: 2.5em;
+    margin-top: 15px;
+    
 }
+
+/* .col-xs-12 .col-sm-6 .col-md-4 .col-lg-3 {
+  margin-top: 10px;
+} */
 
 .card-img-top{
     height: 180px; 
