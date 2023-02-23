@@ -1,11 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T19:07:55.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="T3adZOqNx4ASz6dCX9Nv" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T19:21:51.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="x61ILTPa-VgrKBbl9hK7" version="20.8.20" type="github">
   <diagram name="Page-1" id="RUEo9Bd7sD2gFJfadBwW">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-2" value="Azure Cloud" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#666666;fillColor=#f5f5f5;verticalAlign=top;align=left;spacingLeft=30;dashed=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="430" width="670" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6us5kw_5sCQfG_1NJxVb-1" target="6us5kw_5sCQfG_1NJxVb-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="139" y="380" />
+              <mxPoint x="420" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6us5kw_5sCQfG_1NJxVb-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/sftp-128.png" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="128" height="128" as="geometry" />
+          <mxGeometry x="100" y="260" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6us5kw_5sCQfG_1NJxVb-4" target="6us5kw_5sCQfG_1NJxVb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-4" value="" style="shape=mxgraph.signs.healthcare.hospital_1;html=1;pointerEvents=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6us5kw_5sCQfG_1NJxVb-11" target="6us5kw_5sCQfG_1NJxVb-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="338" />
+              <mxPoint x="300" y="380" />
+              <mxPoint x="420" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/sftp-128.png" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6us5kw_5sCQfG_1NJxVb-12" target="6us5kw_5sCQfG_1NJxVb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-12" value="" style="shape=mxgraph.signs.healthcare.hospital_1;html=1;pointerEvents=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="100" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6us5kw_5sCQfG_1NJxVb-15" target="6us5kw_5sCQfG_1NJxVb-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="380" />
+              <mxPoint x="420" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/sftp-128.png" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6us5kw_5sCQfG_1NJxVb-16" target="6us5kw_5sCQfG_1NJxVb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-16" value="" style="shape=mxgraph.signs.healthcare.hospital_1;html=1;pointerEvents=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="100" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6us5kw_5sCQfG_1NJxVb-17" target="6us5kw_5sCQfG_1NJxVb-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="380" />
+              <mxPoint x="420" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/sftp-128.png" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6us5kw_5sCQfG_1NJxVb-18" target="6us5kw_5sCQfG_1NJxVb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-18" value="" style="shape=mxgraph.signs.healthcare.hospital_1;html=1;pointerEvents=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="100" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6us5kw_5sCQfG_1NJxVb-23" target="6us5kw_5sCQfG_1NJxVb-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6us5kw_5sCQfG_1NJxVb-23" target="6us5kw_5sCQfG_1NJxVb-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6us5kw_5sCQfG_1NJxVb-23" target="6us5kw_5sCQfG_1NJxVb-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6us5kw_5sCQfG_1NJxVb-23" target="6us5kw_5sCQfG_1NJxVb-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-23" value="Blob Container" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Blob_Block.svg;horizontal=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="450" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-25" value="Staging Folder" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="230" y="540" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-33" value="Staging Folder" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="318" y="540" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-39" value="Staging Folder" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="490" y="540" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-40" value="Staging Folder" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;" vertex="1" parent="1">
+          <mxGeometry x="580" y="540" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6us5kw_5sCQfG_1NJxVb-47" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
+          <mxGeometry x="400" y="760" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
