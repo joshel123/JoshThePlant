@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T13:51:11.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YxaiLOQBv7tj5nQAnxeH" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T17:48:55.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fck6UevEJ2tKkpIPjqDG" version="20.8.23" type="github">
   <diagram name="Page-1" id="WWuBMSywa8YxEu_j2Mki">
     <mxGraphModel dx="1834" dy="1196" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,8 +115,9 @@
         <mxCell id="avWEDO7k54FsJl_2Dnr1-51" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;labelBackgroundColor=default;strokeColor=#000000;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="337.13" y="-188.5" width="60.76" height="108.5" as="geometry" />
         </mxCell>
-        <mxCell id="avWEDO7k54FsJl_2Dnr1-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="avWEDO7k54FsJl_2Dnr1-52" target="avWEDO7k54FsJl_2Dnr1-47">
+        <mxCell id="avWEDO7k54FsJl_2Dnr1-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="avWEDO7k54FsJl_2Dnr1-47">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-85" y="392" as="sourcePoint" />
             <mxPoint x="300" y="415" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-85" y="415" />
@@ -129,10 +130,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="avWEDO7k54FsJl_2Dnr1-52" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(234, 107, 102); font-family: Helvetica;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Courier New&quot; color=&quot;#000000&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Request Headers:&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(234, 107, 102); font-family: Helvetica;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Courier New&quot; color=&quot;#000000&quot;&gt;Epic ID: eIXesllypH3M9tAA5WdJftQ3&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(234, 107, 102); font-family: Helvetica;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Courier New&quot; color=&quot;#000000&quot;&gt;Client ID: 031&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(234, 107, 102); font-family: Helvetica;&quot;&gt;&lt;/div&gt;Composite ID: 031-eIXesllypH3M9tAA5WdJftQ3&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-251" y="211" width="375" height="90" as="geometry" />
+          <mxGeometry x="-251" y="211" width="375" height="73" as="geometry" />
         </mxCell>
         <mxCell id="avWEDO7k54FsJl_2Dnr1-55" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_API_for_FHIR.svg;labelBackgroundColor=default;strokeColor=#97D077;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="540" y="390" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="avWEDO7k54FsJl_2Dnr1-58" value="&lt;div style=&quot;border-color: var(--border-color); color: rgb(234, 107, 102); font-family: Helvetica;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Courier New&quot; color=&quot;#000000&quot;&gt;&lt;u style=&quot;border-color: var(--border-color);&quot;&gt;Considerations:&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Azure FHIR API has an ID Limit of 64 Characters&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); color: rgb(234, 107, 102); font-family: Helvetica;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-252" y="301" width="375" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
